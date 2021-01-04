@@ -1,0 +1,4 @@
+/api/node_modules
+/client/node_modules
+/rtmpserver/node_modules
+.gitignore/
