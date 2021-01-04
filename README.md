@@ -1,1 +1,1 @@
-# This project is developed for exercising for ReactJs and Redux
+# This project is developed for exercising about ReactJs and Redux
